@@ -2,6 +2,8 @@
 
 Work around networking issues that lead to problems like missing invites and social tabs not updating.
 
+WARNING: This could break some networking functionality and prevent some websites from loading.
+
 #### Issue
 
 - https://feedback.vrchat.com/bug-reports/p/restart-to-receive-invites
