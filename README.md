@@ -1,3 +1,9 @@
+# About
+
+This is just a collection of registry hacks to fix some silly nonsense with VRChat. To use these, download the repository and run the relevant `.reg` file.
+
+[DOWNLOAD](https://github.com/babo4d/vrchacks/archive/refs/heads/master.zip)
+
 ## Missing Invites: Prefer IPv4 over IPv6
 
 Work around networking issues that lead to problems like missing invites and social tabs not updating.
