@@ -2,6 +2,8 @@
 
 This is just a collection of registry hacks to fix some silly nonsense with VRChat. To use these, download the repository and run the relevant `.reg` file.
 
+NOTE: NEVER run a random `.reg` file if you do not know what it does. You should check before running that these actually do what is claimed via the provided references. Since they are all effectively one-liners this requires no further technical knowledge beyond the meaning of the keys and values.
+
 [DOWNLOAD](https://github.com/babo4d/vrchacks/archive/refs/heads/master.zip)
 
 ## Missing Invites: Prefer IPv4 over IPv6
