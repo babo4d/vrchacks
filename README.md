@@ -1,4 +1,4 @@
-## Prefer IPv4 over IPv6
+## Missing Invites: Prefer IPv4 over IPv6
 
 Work around networking issues that lead to problems like missing invites and social tabs not updating.
 
@@ -10,7 +10,7 @@ Work around networking issues that lead to problems like missing invites and soc
 
 - https://learn.microsoft.com/en-us/troubleshoot/windows-server/networking/configure-ipv6-in-windows#use-registry-key-to-configure-ipv6
 
-## Elevate Process Priority
+## Elevate Process Priority (despite EAC)
 
 Adjust process priority to improve performance when there are background tasks running, such as uploading an avatar in Unity.
 
